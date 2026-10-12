@@ -11,9 +11,3 @@
 ### 🛠 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,js,fastapi,git,github,vscode" />
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight" />
-
-</div>
